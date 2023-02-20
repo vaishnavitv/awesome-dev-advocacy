@@ -414,6 +414,11 @@ Individual videos about DevRel:
     -  Podcast: [Semaphore Uncut](https://dev.to/semaphoreuncut/)
     -  Episode: N/A
     -  Participants: [Stephanie Wong](https://twitter.com/swongful), [Darko Fabijan](https://twitter.com/darkofabijan)
+    
+- [Building Developer Relations Teams with Trag](https://www.linkedin.com/posts/ctraganos_building-developer-relations-teams-with-trag-activity-7029237185564286976-4571)
+   -  Podcast: [Build and Learn](https://open.spotify.com/episode/3nXoxZ12pbTkXkn5eSzGtc?si=9c59238976c941b1&nd=1)
+   -  Episode: N/A
+   -  Participants: [Chris Traganos](https://twitter.com/chris_trag)
 
 ## Community Reports
 
